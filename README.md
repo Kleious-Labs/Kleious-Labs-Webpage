@@ -1,20 +1,7 @@
 # Kleious Labs Website
 
-Landing page for [Kleious Labs](https://kleiouslabs.com) and [Kleious Ledger](https://github.com/Kleious-Labs/Kleious-Ledger).
+Landing page for [Kleious Labs](https://kleiouslabs.com).
 
-## Development
-
-This is a static site with no build step required. To run locally:
-
-```bash
-# Using Python
-python3 -m http.server 8000
-
-# Using Node.js
-npx serve
-```
-
-Then open http://localhost:8000
 
 ## Project Structure
 
